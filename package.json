@@ -1,7 +1,6 @@
 {
   "name": "chela-droid.github.io",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -20,6 +19,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json": "^11.0.0",
-    "json-serve": "^0.1.0"
-  }
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  },
+  "description": ""
 }
